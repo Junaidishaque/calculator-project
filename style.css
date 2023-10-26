@@ -1,0 +1,17 @@
+/* h1{text-align: center;font-size: 100px; color: coral; font-weight: bold;}
+#main{ border: 5px solid green; display: inline-block;
+height: 600px; width: 400px; margin-left: 580px;}
+#result{width: 390px; height: 80px; border: 3px solid blue;text-align: end; font-size: 30px;}
+button{width: 95px; height: 100px; font-size: 30px; margin-top: 3px; font-weight: bold; margin-left: 1px;}
+.first{background-color: pink;}
+.second{background-color: burlywood;} */
+body{background: linear-gradient(45deg,#0a0a0a ,#3a4452);
+}
+h1{color: white; font-size: 100px;font-weight: bold; text-align: center;}
+#main{ display: inline-block;
+    height: 620px; width: 420px; margin-left: 580px; box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.75);}
+    #result{width: 412px; height: 85px;text-align: end; font-size: 30px;background-color: transparent; color: white;}
+button{width: 95px; height: 100px; font-size: 30px; margin-top: 5px; font-weight: bold; margin-left: 5px; border-radius: 50%;border-color: white; }
+.first{background-color:transparent; color: white;}
+.second{background-color: yellow;}
+.end{background-color:red}
